@@ -1,16 +1,93 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Subramani P</h1>
 
-<!--
-**Subramani-ds/Subramani-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Business Analytics Student</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 MBA in Business Analytics @ SRM Institute of Science and Technology
+* 🎓 B.Com Computer Applications @ RKMVC
+* 🐍 Skilled in Python for Data Science
+* 📊 Strong in Data Analysis & Machine Learning
+* 🤖 Interested in Machine Learning & Deep Learning
+* 📈 Passionate about solving real-world problems using data
+* 📚 Currently learning Generative AI
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+
+* Python
+* SQL
+
+### 🤖 Machine Learning
+
+* Supervised Learning
+* Unsupervised Learning
+* Classification & Regression
+* Feature Engineering
+* Model Evaluation
+* Imbalanced Learning
+
+### 🧠 Deep Learning
+
+* Neural Networks
+* CNN
+* LSTM
+* TensorFlow
+* Keras
+
+### 📊 Data Analysis
+
+* Pandas
+* NumPy
+* Exploratory Data Analysis (EDA)
+* Statistical Analysis
+
+### 📈 Data Visualization
+
+* Power BI
+* Tableau
+* Matplotlib
+* Seaborn
+* Excel
+
+### ⚙️ Tools & Platforms
+
+* Git & GitHub
+* MySQL
+* Jupyter Notebook
+* Google Colab
+
+---
+
+## 🚀 Projects
+
+### 🎵 Music Genre Classification
+
+* Built a deep learning model to classify music genres
+* Used neural networks for feature extraction and prediction
+* Applied preprocessing and model optimization techniques
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/p-subramani-326112320
+* 📧 Email: [psubramani565@gmail.com](mailto:psubramani565@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subramani-ds&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subramani-ds&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+⭐ *"Turning data into insights and building intelligent solutions."*
