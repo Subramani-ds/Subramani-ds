@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subramani P</h1>
 
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Business Analytics Student</h3>
-
+ *"Turning data into insights and building intelligent solutions."*
 ---
 
 ## About Me
@@ -81,13 +81,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subramani-ds&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subramani-ds&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-⭐ *"Turning data into insights and building intelligent solutions."*
