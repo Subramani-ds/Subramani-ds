@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Subramani P</h1>
 
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Business Analytics Student</h3>
- *"Turning data into insights and building intelligent solutions."*
+<h4 align="center">Turning data into insights and building intelligent solutions</h4>
+
 ---
 
 ## About Me
