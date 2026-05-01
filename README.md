@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * 🎓 MBA in Business Analytics @ SRM Institute of Science and Technology
 * 🎓 B.Com Computer Applications @ RKMVC
@@ -16,14 +16,14 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Programming
+### Programming
 
 * Python
 * SQL
 
-### 🤖 Machine Learning
+### Machine Learning
 
 * Supervised Learning
 * Unsupervised Learning
@@ -32,7 +32,7 @@
 * Model Evaluation
 * Imbalanced Learning
 
-### 🧠 Deep Learning
+### Deep Learning
 
 * Neural Networks
 * CNN
@@ -40,14 +40,14 @@
 * TensorFlow
 * Keras
 
-### 📊 Data Analysis
+### Data Analysis
 
 * Pandas
 * NumPy
 * Exploratory Data Analysis (EDA)
 * Statistical Analysis
 
-### 📈 Data Visualization
+### Data Visualization
 
 * Power BI
 * Tableau
@@ -55,7 +55,7 @@
 * Seaborn
 * Excel
 
-### ⚙️ Tools & Platforms
+### Tools & Platforms
 
 * Git & GitHub
 * MySQL
@@ -64,7 +64,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🎵 Music Genre Classification
 
